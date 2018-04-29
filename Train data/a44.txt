@@ -1,0 +1,14 @@
+﻿Application for Sick Leave
+The Concerned Person,
+ABC School.
+Subject: Sick Leave Application
+Respected Madam,
+I have to notify you that I am not in a position to come to school as I am ill for a week and subjected to complete bed rest for three days. On account of my sickness, I request you to kindly grant me leave for 6th-8th May, 2016. I shall be utterly obliged in for this.
+Thanking you I remain.
+Yours Obediently,
+Name:
+Class:
+Roll number:
+Date:
+Parents’ Signature:
+

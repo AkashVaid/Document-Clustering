@@ -1,0 +1,12 @@
+﻿
+Easy Template of Sick Leave
+The Principal,
+ABC School System.
+Subject: Application for Sick Leave
+Respected Ma’am,
+I beg to state with due respect that I am not able to come to school tomorrow as I am feeling really drowsy. Doctor has identified low blood sugar level in me and to properly get treatment I need to visit hospital tomorrow. Because of this situation I request you to please grant me leave for a day. I shall be very grateful to you.
+Yours Obediently,
+Sarah
+Grade: 7th
+Date: 8/2/17
+
